@@ -54,4 +54,4 @@ Eröffnet einfach ein Issue
 
 
 Problems or questions ?
-Pleas open an issue.
+Please open an issue.

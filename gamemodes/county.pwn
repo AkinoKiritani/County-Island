@@ -12,6 +12,12 @@
 #   Besitz und nutzen wird Strafrechtlich      #
 #   verfolgt. (Nach dem Verkauf ist dieser     #
 #   Passus nicht mehr relevant ~Bobby Dez'2019 #
+#											   #
+#											   #
+#	Aufarbeitung der verlorenengegangen        #
+#	Datenbank durch Rocky und Akino Kiritani   #
+#	Jan'2020  								   #
+#											   #	
 ################################################
 
 Updates:
@@ -32,7 +38,7 @@ Aktuelle Bug-Liste:
 //Host
 #define MYSQL_HOST     	"localhost"
 #define MYSQL_USER      "root"
-#define MYSQL_PASS      "germanwings"
+#define MYSQL_PASS      ""
 #define MYSQL_DATA      "county"
 //Host
 /*#define MYSQL_HOST     "ms772.gamedata.io"
